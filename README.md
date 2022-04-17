@@ -7,16 +7,16 @@ Completing this ladder is like learning the alphabet for someone getting started
 
 | ID  | Problem | Difficulty  | Solution  |
 | --- | --- | --- | --- |
-1 | [Cards](http://codeforces.com/problemset/problem/1220/A) | 600 | [Link]()
-2 |	[Between the Offices](http://codeforces.com/problemset/problem/867/A) |	600 | [Link]()
-3	| [Mahmoud and Ehab and the even-odd game](http://codeforces.com/problemset/problem/959/A) | 600 |  [Link]()
-4 |	[Fafa and his Company](http://codeforces.com/problemset/problem/935/A)  | 600 | [Link]()
-5 | [Vus the Cossack and a Contest](http://codeforces.com/problemset/problem/1186/A) | 600 | [Link]()
-6	| [Scarborough Fair](http://codeforces.com/problemset/problem/897/A)  | 700 | [Link]()
-7	| [Tokitsukaze and Enhancement](http://codeforces.com/problemset/problem/1191/A) | 700 | [Link]()
-8	| [Pens and Pencils](http://codeforces.com/problemset/problem/1244/A)	| 700 | [Link]()
-9	| [Infinity Gauntlet](http://codeforces.com/problemset/problem/987/A) |	700 |  [Link]()
-10  | [Petya and Origami](http://codeforces.com/problemset/problem/1080/A) | 700 | [Link]()
+1 | [Cards](http://codeforces.com/problemset/problem/1220/A) | 600 | [Link](https://github.com/udattam/A2OJ_Solutions/blob/main/Code/Cards.java)
+2 |	[Between the Offices](http://codeforces.com/problemset/problem/867/A) |	600 | [Link](https://github.com/udattam/A2OJ_Solutions/blob/main/Code/BetweenTheOffices.java)
+3	| [Mahmoud and Ehab and the even-odd game](http://codeforces.com/problemset/problem/959/A) | 600 |  [Link](https://github.com/udattam/A2OJ_Solutions/blob/main/Code/MahmoudAndEhabAndTheEvenOddGame.java)
+4 |	[Fafa and his Company](http://codeforces.com/problemset/problem/935/A)  | 600 | [Link](https://github.com/udattam/A2OJ_Solutions/blob/main/Code/FafaAndHisCompany.java)
+5 | [Vus the Cossack and a Contest](http://codeforces.com/problemset/problem/1186/A) | 600 | [Link](https://github.com/udattam/A2OJ_Solutions/blob/main/Code/VusTheCossackAndAContest.java)
+6	| [Scarborough Fair](http://codeforces.com/problemset/problem/897/A)  | 700 | [Link](https://github.com/udattam/A2OJ_Solutions/blob/main/Code/ScarboroughFair.java)
+7	| [Tokitsukaze and Enhancement](http://codeforces.com/problemset/problem/1191/A) | 700 | [Link](https://github.com/udattam/A2OJ_Solutions/blob/main/Code/TokitsukazeAndEnhancement.java)
+8	| [Pens and Pencils](http://codeforces.com/problemset/problem/1244/A)	| 700 | [Link](https://github.com/udattam/A2OJ_Solutions/blob/main/Code/PensAndPencils.java)
+9	| [Infinity Gauntlet](http://codeforces.com/problemset/problem/987/A) |	700 |  [Link](https://github.com/udattam/A2OJ_Solutions/blob/main/Code/InfinityGauntlet.java)
+10  | [Petya and Origami](http://codeforces.com/problemset/problem/1080/A) | 700 | [Link](https://github.com/udattam/A2OJ_Solutions/blob/main/Code/PetyaAndOrigami.java)
 
 
 
