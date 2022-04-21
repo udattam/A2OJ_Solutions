@@ -7,16 +7,21 @@ Completing this ladder is like learning the alphabet for someone getting started
 
 | ID  | Problem | Difficulty  | Solution  |
 | --- | --- | --- | --- |
-1 | [Cards](http://codeforces.com/problemset/problem/1220/A) | 600 | [Link](https://github.com/udattam/A2OJ_Solutions/blob/main/Code/Cards.java)
-2 |	[Between the Offices](http://codeforces.com/problemset/problem/867/A) |	600 | [Link](https://github.com/udattam/A2OJ_Solutions/blob/main/Code/BetweenTheOffices.java)
-3	| [Mahmoud and Ehab and the even-odd game](http://codeforces.com/problemset/problem/959/A) | 600 |  [Link](https://github.com/udattam/A2OJ_Solutions/blob/main/Code/MahmoudAndEhabAndTheEvenOddGame.java)
-4 |	[Fafa and his Company](http://codeforces.com/problemset/problem/935/A)  | 600 | [Link](https://github.com/udattam/A2OJ_Solutions/blob/main/Code/FafaAndHisCompany.java)
-5 | [Vus the Cossack and a Contest](http://codeforces.com/problemset/problem/1186/A) | 600 | [Link](https://github.com/udattam/A2OJ_Solutions/blob/main/Code/VusTheCossackAndAContest.java)
-6	| [Scarborough Fair](http://codeforces.com/problemset/problem/897/A)  | 700 | [Link](https://github.com/udattam/A2OJ_Solutions/blob/main/Code/ScarboroughFair.java)
-7	| [Tokitsukaze and Enhancement](http://codeforces.com/problemset/problem/1191/A) | 700 | [Link](https://github.com/udattam/A2OJ_Solutions/blob/main/Code/TokitsukazeAndEnhancement.java)
-8	| [Pens and Pencils](http://codeforces.com/problemset/problem/1244/A)	| 700 | [Link](https://github.com/udattam/A2OJ_Solutions/blob/main/Code/PensAndPencils.java)
-9	| [Infinity Gauntlet](http://codeforces.com/problemset/problem/987/A) |	700 |  [Link](https://github.com/udattam/A2OJ_Solutions/blob/main/Code/InfinityGauntlet.java)
-10  | [Petya and Origami](http://codeforces.com/problemset/problem/1080/A) | 700 | [Link](https://github.com/udattam/A2OJ_Solutions/blob/main/Code/PetyaAndOrigami.java)
+1   |   [Cards](http://codeforces.com/problemset/problem/1220/A)    |   600 |   [Link](https://github.com/udattam/A2OJ_Solutions/blob/main/Code/Cards.java)
+2   |   [Between the Offices](http://codeforces.com/problemset/problem/867/A)   |   600 |   [Link](https://github.com/udattam/A2OJ_Solutions/blob/main/Code/BetweenTheOffices.java)
+3	|   [Mahmoud and Ehab and the even-odd game](http://codeforces.com/problemset/problem/959/A)    |   600 |   [Link](https://github.com/udattam/A2OJ_Solutions/blob/main/Code/MahmoudAndEhabAndTheEvenOddGame.java)
+4   |   [Fafa and his Company](http://codeforces.com/problemset/problem/935/A)  |   600 |   [Link](https://github.com/udattam/A2OJ_Solutions/blob/main/Code/FafaAndHisCompany.java)
+5   |   [Vus the Cossack and a Contest](http://codeforces.com/problemset/problem/1186/A)    |   600 |   [Link](https://github.com/udattam/A2OJ_Solutions/blob/main/Code/VusTheCossackAndAContest.java)
+6	|   [Scarborough Fair](http://codeforces.com/problemset/problem/897/A)  |   700 |   [Link](https://github.com/udattam/A2OJ_Solutions/blob/main/Code/ScarboroughFair.java)
+7	|   [Tokitsukaze and Enhancement](http://codeforces.com/problemset/problem/1191/A)  |   700 |   [Link](https://github.com/udattam/A2OJ_Solutions/blob/main/Code/TokitsukazeAndEnhancement.java)
+8	|   [Pens and Pencils](http://codeforces.com/problemset/problem/1244/A) |   700 |   [Link](https://github.com/udattam/A2OJ_Solutions/blob/main/Code/PensAndPencils.java)
+9	|   [Infinity Gauntlet](http://codeforces.com/problemset/problem/987/A) |   700 |   [Link](https://github.com/udattam/A2OJ_Solutions/blob/main/Code/InfinityGauntlet.java)
+10  |   [Petya and Origami](http://codeforces.com/problemset/problem/1080/A)    |   700 |   [Link](https://github.com/udattam/A2OJ_Solutions/blob/main/Code/PetyaAndOrigami.java)
+11	|   [ The Rank](https://codeforces.com/problemset/problem/1017/A)   |   700 |   [Link]()
+12	|   [Nastya Is Reading a Book](https://codeforces.com/problemset/problem/1136/A)    |   700 |   [Link](https://github.com/udattam/A2OJ_Solutions/blob/main/Code/NastyaIsReadingABook.java)
+13	|   [Fingerprints](https://codeforces.com/problemset/problem/994/A)    |   700 |   [Link](https://github.com/udattam/A2OJ_Solutions/blob/main/Code/Fingerprints.java)
+14	|   [Game](https://codeforces.com/problemset/problem/984/A)    |   700 |   [Link](https://github.com/udattam/A2OJ_Solutions/blob/main/Code/Game.java)
+15	|   [Choose Two Numbers](https://codeforces.com/problemset/problem/1206/A)  |   800 |   [Link](https://github.com/udattam/A2OJ_Solutions/blob/main/Code/ChooseTwoNumbers.java)
 
 
 
